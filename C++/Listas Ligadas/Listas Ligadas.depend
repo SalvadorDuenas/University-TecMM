@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607792831 source:c:\users\salvador\documents\3er semestre\estructura de datos\listas ligadas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

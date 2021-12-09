@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606245844 source:c:\users\salvador\documents\3er semestre\esta\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<stack>
+	<string>
+

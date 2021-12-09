@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606759325 source:c:\users\salvador\documents\3er semestre\colas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1607108009 source:c:\users\salvador\documents\3er semestre\estructura de datos\colas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606762846 source:c:\users\salvador\documents\3er semestre\listas\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

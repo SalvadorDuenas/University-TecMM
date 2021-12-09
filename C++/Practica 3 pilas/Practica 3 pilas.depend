@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606239783 source:c:\users\salvador\documents\3er semestre\practica 3 pilas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1607973785 source:c:\users\salvador\documents\3er semestre\estructura de datos\practica 3 pilas\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
