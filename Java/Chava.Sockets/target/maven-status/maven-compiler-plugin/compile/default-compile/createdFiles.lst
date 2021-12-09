@@ -1,0 +1,7 @@
+Sockets\LaminaMarcoCliente.class
+Sockets\Servidor.class
+Sockets\MarcoCliente.class
+Sockets\Cliente.class
+Sockets\PaqueteEnvio.class
+Sockets\LaminaMarcoCliente$EnviaTexto.class
+Sockets\MarcoServidor.class
