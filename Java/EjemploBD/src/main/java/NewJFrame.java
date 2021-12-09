@@ -21,7 +21,7 @@ DriverManager.registerDriver(new org.gjt.mm.mysql.Driver());
 conexion = DriverManager.getConnection
 ("jdbc:mysql://localhost/prueba", //servidor
 "root", //usuario
-"sdm2299feb"); //password
+"123456"); //password
 }catch (Exception e)
 {
 e.printStackTrace();
